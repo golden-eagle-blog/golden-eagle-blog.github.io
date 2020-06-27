@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: golden-eagle-blog.github.io
-Token: 5682a2ed482b523428ea35a48a41125a171445444e5132f10dc4009499ce28e1
