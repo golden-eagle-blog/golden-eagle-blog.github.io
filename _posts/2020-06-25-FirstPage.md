@@ -1,7 +1,7 @@
 ---
 comments: true
 ---
-some content .
+some content here.
 
 
 {% if page.comments %} 
