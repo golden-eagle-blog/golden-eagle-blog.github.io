@@ -1,6 +1,9 @@
+<button type="button" onclick="mymalluFunction()">മലയാളം</button>
+<button type="button" onclick="myEngFunction()">parishkari english</button>
+<div id="mallu" style="display:none;">
+<p>മലയാളം</p>
+</div>
 
-some content here-second pg.
-
-
-
-
+    <div id="parishkari">
+<p>english.</p>
+</div>
