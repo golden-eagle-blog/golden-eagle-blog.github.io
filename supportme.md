@@ -22,7 +22,7 @@ You can download it using any of the links below. It will support us if you use 
 #### [https://brave.com/gol808](https://brave.com/gol808)
 
 ### 2. Visit, watch and Subscribe to our youtube channel.
-#### [https://www.youtube.com/channel/UCTVzqs4n-MDhtXqphShP-tQ](https://www.youtube.com/channel/UCTVzqs4n-MDhtXqphShP-tQ)
+#### [https://www.youtube.com/channel/UCTVzqs4n-MDhtXqphShP-tQ](https://www.youtube.com/channel/UCTVzqs4n-MDhtXqphShP-tQ?sub_confirmation=1)
 
 ### 3. Check out the merchandise from our store
 Please use the link below to our store to checkout and buy anything that you like.
