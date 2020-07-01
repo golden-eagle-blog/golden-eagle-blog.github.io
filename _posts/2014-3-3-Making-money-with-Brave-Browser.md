@@ -4,8 +4,8 @@ title: Making money with the Brave browser!
 ---
 
 
-## Do you know than you can earn small amount by using Brave Browser? 
-Yes , now you can! You can earn small amount of money. It is not a get rich scam, you cannot be rich overnight.
+### Do you know that you can earn small amount by using Brave Browser? 
+Yes , now you can! You can earn small amount of money, every single day. It is not a get rich scam, you maynot be rich overnight.
 
 Let us check the details.
 
@@ -40,11 +40,14 @@ Is that bad, if you 10$ for almost doing nothing.
 
 ### How do I redeem the money?
 [NOTE : All that you make using this is legal and subjected to be taxed as per the Income Tax rules of the country.]
-You need to accumulate at least 46 BAT or roughly 1000 INR to redeem.
+
+NOTE: You need to accumulate at least 46 BAT or roughly 1000 INR to redeem.
 To redeem the money, you need a digital wallet called Uphold. This is how we do it.
-Click on the BAT symbol near the address bar. Click on 'Verify Account' option. you will be directed to the uphold website. 
-If you already have an Uphold account, login with that. Else create an account by verifyfing your identity using any official document. In the Uphold account, add your bank account to which the money to be sent to.
-Once you accumulate enough , redeem directly to your bank account.
+1. Click on the BAT symbol near the address bar. 
+2. Click on 'Verify Account' option. you will be directed to the uphold website. 
+3. If you already have an Uphold account, login with that. Else create an account by verifyfing your identity using any official document. 
+4. In the Uphold account, add your bank account to which the money to be sent to.
+5. Once you accumulate enough , redeem directly to your bank account.
 
 Done!!!
 
@@ -52,5 +55,5 @@ Done!!!
 If you have multiple devides like desktop, laptop, mobile phones etc, install on all of your devices. Link all these devices to same Uphold account.
 
 Let me know your comments below. 
-
+Please share this with your family and friends using any of the social media handles below. 
 Consider supporting me? please check [this page](https://golden-eagle-blog.github.io/supportme/) for details.
