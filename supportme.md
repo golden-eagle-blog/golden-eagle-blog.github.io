@@ -17,7 +17,7 @@ We have managed to get a couple of ways for you to support us, even without look
 
 We are a verified Brave publisher. If you are using Brave Browser, you can tip us from the browser.
 If you have not tried Brave Browser, consider trying it.The brave browser is a fast, Private and Secure web browser for PC and mobile.
-You can download it using any of the links below. It will support us if you use any of the links below.
+You can download it using any of the links below. Brave will support us if you download the Brave browser using the banner above or any of the links below.
 
 #### [https://brave.com/shi127](https://brave.com/shi127)
 #### [https://brave.com/gol578](https://brave.com/gol578)
