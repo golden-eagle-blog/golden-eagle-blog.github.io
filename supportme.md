@@ -18,8 +18,8 @@ If you have not tried Brave Browser, consider trying it.The brave browser is a f
 You can download it using any of the links below. It will support us if you use any of the links below.
 
 #### https://brave.com/shi127
-#### https://brave.com/gol578
-[#### https://brave.com/gol808](https://brave.com/gol808)
+#### [https://brave.com/gol578](https://brave.com/gol578)
+[https://brave.com/gol808](https://brave.com/gol808)
 
 ### 2. Visit, watch and Subscribe to our youtube channel.
 #### https://www.youtube.com/channel/UCTVzqs4n-MDhtXqphShP-tQ
