@@ -27,6 +27,7 @@ That will help us get some bonus. Download via any of the links below.
 ### What after installation?
 
 Goto the settings, make sure that you enable the Brave revards.
+
 Settings > Brave Rewards > Enable ads(Choose the maximum availabel option, ie 5 ads per hour).
 
 You will shortly start getting ads as notifications. Simply click on the notification and the page ad will be opened in a new browser page. Simply close the page. yes , you are done.
@@ -55,5 +56,7 @@ Done!!!
 If you have multiple devides like desktop, laptop, mobile phones etc, install on all of your devices. Link all these devices to same Uphold account.
 
 Let me know your comments below. 
+
 Please share this with your family and friends using any of the social media handles below. 
+
 Consider supporting me? please check [this page](https://golden-eagle-blog.github.io/supportme/) for details.
