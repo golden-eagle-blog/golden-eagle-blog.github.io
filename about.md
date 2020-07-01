@@ -10,11 +10,11 @@ Kindly contact us for anything you consider can vastly improve our content here 
 Happy reading, watching and getting a better perspective.
 
 Now that you have read until this, please take a look at the ways to support us.
-
+## Cheers!
 ### Contact us
 For any comments, please use the comment box available under each of our post. 
 If you want to conenct with us for anything else, shoot the mail to the id below. 
 [mailto.golden.eagle@gmail.com](mailto:mailto.golden.eagle@gmail.com)
 
-## More Information
+### More Information
 Made in Bundesrepublik Deutschland. All the difference in opinion will be dealt within the frame of judicial system of Germany.
