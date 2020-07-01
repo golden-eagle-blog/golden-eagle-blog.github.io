@@ -11,7 +11,7 @@ We bootstrapped into this with no aid from any other sources. Any support from y
 
 We have managed to get a couple of ways for you to support us, even without looking at money.
 
-### 1. Using Brave Browser
+### 1. Using Brave Browser.
 
 We are a verified Brave publisher. If you are using Brave Browser, you can tip us from the browser.
 If you have not tried Brave Browser, consider trying it.The brave browser is a fast, Private and Secure web browser for PC and mobile.
@@ -22,13 +22,13 @@ You can download it using any of the links below. It will support us if you use 
 #### [https://brave.com/gol808](https://brave.com/gol808)
 
 ### 2. Visit, watch and Subscribe to our youtube channel.
-#### [https://www.youtube.com/channel/UCTVzqs4n-MDhtXqphShP-tQ?sub_confirmation=1](https://www.youtube.com/channel/UCTVzqs4n-MDhtXqphShP-tQ?sub_confirmation=1)
+#### [https://www.youtube.com/channel/UCTVzqs4n-MDhtXqphShP-tQ](https://www.youtube.com/channel/UCTVzqs4n-MDhtXqphShP-tQ?sub_confirmation=1)
 
-### 3. Check out the merchandise from our store
+### 3. Check out the merchandise from our store.
 Please use the link below to our store to checkout and buy anything that you like.
 #### [https://teespring.com/stores/goldeneagle-2](https://teespring.com/stores/goldeneagle-2)
 
-### 4. BuyMeACoffee
+### 4. Buy Me A Coffee.
 You can consider buying me a coffee. Use the direct link below or click on the widget below.
 #### [https://www.buymeacoffee.com/goldeneagle](https://www.buymeacoffee.com/goldeneagle)
 
