@@ -8,7 +8,7 @@ title: Making money with the Brave browser!
 Yes , now you can! You can earn small amount of money, every single day. It is not a get rich scam, you maynot become rich overnight.
 
 Let us check the details.
-#### <a href="{{ site.baseurl }}/postmal/Making-money-with-Brave-browser_mal">മലയാളത്തിൽ വായിക്കാൻ ഇവിടെ ക്ലിക്കുചെയ്യുക</a>
+#### <a href="{{ site.baseurl }}/postmal/2020-3-3-Making-money-with-Brave-browser_mal">മലയാളത്തിൽ വായിക്കാൻ ഇവിടെ ക്ലിക്കുചെയ്യുക</a>
 ### What is Brave browser?
 Brave Browser is created by Brave software. Brave is free and open source, and made on foundation of Chromium. It blocks ads and website trackers hence enhancing the privacy and sense of security.
 
