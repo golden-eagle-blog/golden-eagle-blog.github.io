@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Support me
+title: A little help is always good!
 permalink: /supportme/
 ---
 
