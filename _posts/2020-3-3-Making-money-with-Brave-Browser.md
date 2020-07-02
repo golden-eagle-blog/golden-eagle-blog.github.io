@@ -8,7 +8,7 @@ title: Making money with the Brave browser!
 Yes , now you can! You can earn small amount of money, every single day. It is not a get rich scam, you maynot be rich overnight.
 
 Let us check the details.
-
+<a href="{{ site.baseurl }}/_posts/mal/supportme">mal</a>
 ### What is Brave browser?
 Brave Browser is created by Brave software. Brave is free and open source, and made on foundation of Chromium. It blocks ads and website trackers hence enhancing the privacy and sense of security.
 
@@ -36,7 +36,7 @@ You can click on these as at any time. you done have to wait and click on the ad
 
 
 ### How much can I make ?
-It depends on you much ads you click on. I was making around 10 US dollars a month without being conscious about what I was doing.
+It depends on you much ads you click on. I was making around 10 US dollars a month without being conscious of what I was doing.
 Is that bad, if you 10$ for almost doing nothing.
 
 ### How do I redeem the money?
