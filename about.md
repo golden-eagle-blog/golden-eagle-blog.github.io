@@ -16,5 +16,5 @@ Now that you have read until this, please take a look at the ways to support us.
 
 ## Cheers!
 
-#### More Information
-Made in Bundesrepublik Deutschland. All the difference in opinion will be dealt within the frame of judicial system of Germany.
+#### Made in India.
+
