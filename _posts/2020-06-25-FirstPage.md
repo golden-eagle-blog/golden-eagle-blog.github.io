@@ -3,7 +3,9 @@ comments: true
 ---
 
 Luminous Inverter 600 PRO -
-<a target="_blank" href="https://www.amazon.in/Luminous-LB600PRO-UPS-LB600PR0/dp/B07S84HLRJ/ref=psdc_1375248031_t3_B00HQCKEY2?&_encoding=UTF8&tag=goldeneagl04e-21&linkCode=ur2&linkId=ec167cf5e49a7995cc4ef5c4aad08306&camp=3638&creative=24630">Luminous Inverter 600 Pro</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=goldeneagl04e-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-in.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=IN&source=ac&ref=tf_til&ad_type=product_link&tracking_id=goldeneagl04e-21&marketplace=amazon&region=IN&placement=B00HQCKEY2&asins=B00HQCKEY2&linkId=b91d0ed354e94f8598a09b2a97330690&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
 
 
