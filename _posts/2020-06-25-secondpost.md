@@ -4,6 +4,6 @@
 <p>മലയാളം</p>
 </div>
 
-    <div id="parishkari">
+<div id="parishkari">
 <p>english.</p>
 </div>
