@@ -3,7 +3,7 @@ layout: post
 title: "Binod" - One crazy trend of 2020.
 ---
 
-###"Binod" - One crazy trend of 2020.
+### Binod - One crazy trend of 2020.
 
 If you are someone who is active in the social media, you would already be knowing "The story of Binod".
 If you have not heard about Binod, let me tell his story.
