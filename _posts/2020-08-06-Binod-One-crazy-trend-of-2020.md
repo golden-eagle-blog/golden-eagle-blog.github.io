@@ -37,6 +37,9 @@ Binod became bigger that someone can possibly imagine is a short span.
 
 ### What should you do now?
 Be a part of the wave, and comment "Binod"  and spread Binod . 
+<p style="font-size:48px">
+&#128512; &#128516; &#128525; &#128151;
+</p>
 
 
 
