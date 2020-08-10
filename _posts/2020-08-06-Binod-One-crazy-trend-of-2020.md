@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Binod" - One crazy trend of 2020.
+title: Binod - One crazy trend of 2020.
 ---
 
 ### Binod - One crazy trend of 2020.
