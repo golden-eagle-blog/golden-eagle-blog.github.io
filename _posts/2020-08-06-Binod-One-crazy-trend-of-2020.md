@@ -1,5 +1,4 @@
 ---
-comments: true
 layout: post
 title: "Binod" - One crazy trend of 2020.
 ---
