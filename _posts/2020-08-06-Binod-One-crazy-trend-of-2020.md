@@ -25,21 +25,20 @@ They simply started commenting Binod. This has become a snow ball. I dont know i
 ### How big is Binod?
 
 Binod became bigger that someone can possibly imagine is a short span.
-1. @PayTM changed its Twitter handle name  to Binod for some time on request from a User. 
-2. @AirtelIndia asked to receive all the calls with "han bol Binod". 
-3. @jaipur_police defined Binod to advise people on safe driving , covid guidelines etc. 
-4. @mumbaipolice used Binod to 	advice the online safety. 
-5. @nagpurpolice used Binod to adivice to be safe during Corona. 
-6. People asking to call them Binod. 
-7. @inder_india matched Binod with Binodini . 
-8. I am Binod. Nam to suna hi hoga. 
-9. Binod is used to refer to anyting and everything. 
+1. @PayTM changed its Twitter handle name  to Binod for some time on request from a User. <p> &#129315;</p>
+2. @AirtelIndia asked to receive all the calls with "han bol Binod". <p> &#128579;</p>
+3. @jaipur_police defined Binod to advise people on safe driving , covid guidelines etc. <p> &#128567;</p>
+4. @mumbaipolice used Binod to 	advice the online safety. <p> &#129299;</p>
+5. @nagpurpolice used Binod to adivice to be safe during Corona. <p> &#128567;</p>
+6. People asking to call them Binod. <p> &#128556;</p>
+7. @inder_india matched Binod with Binodini. <p> &#128536;</p>
+8. I am Binod. Nam to suna hi hoga.  <p> &#128526;</p>  <p> &#128070;</p>
+9. Binod is used to refer to anyting and everything.  <p> &#128541;</p>
 
 ### What should you do now?
-Be a part of the wave, and comment "Binod"  and spread Binod . 
-<p style="font-size:48px">
-&#128512; &#128516; &#128525; &#128151;
-</p>
+Be a part of the wave, and comment "Binod" <p> &#9997;</p> and spread Binod <p> &#128151;</p> .
+Cheers <p> &#129346;</p>
+
 
 
 
