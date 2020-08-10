@@ -3,8 +3,7 @@ layout: post
 title: Binod - One crazy trend of 2020.
 ---
 
-### Binod - One crazy trend of 2020.
-
+### Binod - One crazy trend of 2020, an interesting read.
 If you are someone who is active in the social media, you would already be knowing "The story of Binod".
 If you have not heard about Binod, let me tell his story.
 
@@ -26,17 +25,18 @@ They simply started commenting Binod. This has become a snow ball. I dont know i
 ### How big is Binod?
 
 Binod became bigger that someone can possibly imagine is a short span.
-1. @PayTM changed its Twitter handle name  to Binod for some time on request from a User.
-2. @AirtelIndia asked to receive all the calls with "han bol Binod".
-3. @jaipur_police defined Binod to advise people on safe driving , covid guidelines etc.
-4. @mumbaipolice used Binod to 	advice the online safety.
-5. @nagpurpolice used Binod to adivice to be safe during Corona.
-6. People asking to call them Binod.
-7. @inder_india matched Binod with Binodini :D .
-8. I am Binod. Nam to suna hi hoga.
+1. @PayTM changed its Twitter handle name  to Binod for some time on request from a User. :information_desk_person:
+2. @AirtelIndia asked to receive all the calls with "han bol Binod". :astonished:
+3. @jaipur_police defined Binod to advise people on safe driving , covid guidelines etc. :fire:
+4. @mumbaipolice used Binod to 	advice the online safety. :fire:
+5. @nagpurpolice used Binod to adivice to be safe during Corona. :fire:
+6. People asking to call them Binod. :innocent:
+7. @inder_india matched Binod with Binodini . :stuck_out_tongue_closed_eyes: :couplekiss:
+8. I am Binod. Nam to suna hi hoga. :point_up:
+9. Binod is used to refer to anyting and everything. :scream:
 
 ### What should you do now?
-Be a part of the wave, and comment "Binod". :P 
+Be a part of the wave, and comment "Binod" :thought_balloon: and spread Binod :heartbeat:. :raised_hands: :muscle:
 
 
 
