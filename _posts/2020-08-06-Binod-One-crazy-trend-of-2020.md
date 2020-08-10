@@ -26,7 +26,7 @@ They simply started commenting Binod. This has become a snow ball. I dont know i
 
 Binod became bigger that someone can possibly imagine is a short span.
 1. @PayTM changed its Twitter handle name  to Binod for some time on request from a User. 
-:information_desk_person: <p>&#x1F354</p>
+:information_desk_person:  :smirk: `:smirk:`
 2. @AirtelIndia asked to receive all the calls with "han bol Binod". :astonished:
 3. @jaipur_police defined Binod to advise people on safe driving , covid guidelines etc. :fire:
 4. @mumbaipolice used Binod to 	advice the online safety. :fire:
