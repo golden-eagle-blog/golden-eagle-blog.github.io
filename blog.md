@@ -3,7 +3,8 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
-the blog page
+Please find the lis tof blog posts below.
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
