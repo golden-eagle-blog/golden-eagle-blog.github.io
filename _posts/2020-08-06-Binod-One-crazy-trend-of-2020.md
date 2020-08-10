@@ -36,7 +36,7 @@ Binod became bigger that someone can possibly imagine is a short span.
 9. Binod is used to refer to anyting and everything.  &#128541;
 
 ### What should you do now?
-Be a part of the wave, and comment "Binod"  &#9997; and spread Binod  &#128151; .
+Be a part of the wave, comment "Binod"  &#9997; and spread Binod  &#128151; .
 Cheers  &#129346;
 
 
