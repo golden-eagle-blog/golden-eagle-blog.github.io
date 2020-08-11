@@ -19,6 +19,8 @@ Interestingly Slayy Point published their video review with a title "Why Indian 
 
 Yes, this is not something new, we see this every single day. People come, read/view and post some random comments, sometimes simply their name.
 
+<img src="/images/posts/binod/binod.jpg" alt="binod" width="500" height="250" class="center">
+
 Now that Slay point has taken up the name, the cyber workers got a new lead , "BINOD".
 They simply started commenting Binod. This has become a snow ball. I dont know if Binod Tharu ever knew all these hype after his name &#129315; .
 
@@ -26,15 +28,21 @@ They simply started commenting Binod. This has become a snow ball. I dont know i
 
 Binod became bigger that someone can possibly imagine is a short span.
 1. @PayTM changed its Twitter handle name  to Binod for some time on request from a User.  &#129315;
+
+<img src="/images/posts/binod/binod-paytm.jpg" alt="binod" width="500" height="250" class="center">
+
 2. @AirtelIndia asked to receive all the calls with "han bol Binod".  &#128579;
 3. @jaipur_police defined Binod to advise people on safe driving , covid guidelines etc.  &#128567;
 4. @mumbaipolice used Binod to 	advice the online safety. &#129299;
 5. @nagpurpolice used Binod to adivice to be safe during Corona. &#128567;
 6. People asking to call them Binod.  &#128556;
 7. @inder_india matched Binod with Binodini. &#128536;
+
+<img src="/images/posts/binod/binod-tinder.jpg" alt="binod" width="500" height="250" class="center">
+
 8. I am Binod. Nam to suna hi hoga.   &#128526;   &#128070;
 9. Binod is used to refer to anyting and everything.  &#128541;
-
+<img src="/images/posts/binod/binod-netflix.jpg" alt="binod" width="500" height="250" class="center">
 ### What should you do now?
 Be a part of the wave, comment "Binod"  &#9997; and spread Binod  &#128151; .
 Cheers  &#129346;
