@@ -23,11 +23,12 @@ Termux is an application that can be downloaded from Play store. Termux is a ter
 
 #### Let us get it.
 We can download ainstall Termux app from Google Play. This is a clean app and there is no shady business here.
-For the lazy ones, it is just a click here https://play.google.com/store/apps/details?id=com.termux
+For the lazy ones, it is just a click [ here ](https://play.google.com/store/apps/details?id=com.termux) .
 
 ### The look and feel of the Terminal( rather, Termux)
 After installing Termux, upon opening , it shows up a black screen with white letters.The crowd familiar with the DOS command line or Linux terminal will feel at home.
-<<<< image here >>>>>
+
+<img src="/images/posts/Termux1/TermuxHome.jpg" alt="Termux home" class="center">
 
 ### Some upgrades
 The programs and the installed packages will be updated by the corresponding developers from time to time. The updates are nothing but new features, bug fixes or some improvements. We should also try to keep our system upto date by installing the updates. 
@@ -41,14 +42,14 @@ apt update
 ```
 After the above command is executed, you can see any available updates for your installed packages.
 
-image
+<img src="/images/posts/Termux1/TermuxUpdate.jpg" alt="Termux Update" class="center">
 
 Now we have to install the available packages. To install the available packages, just run the command given below. It will prompt you for the confirmation to install. Please input Y or y.
 ```
 apt upgrade
 
 ```
+<img src="/images/posts/Termux1/TermuxUpgrade.jpg" alt="Termux Upgrade" class="center">
 
-image
 
 Good, we are all set. Now we can look for having some fun.
