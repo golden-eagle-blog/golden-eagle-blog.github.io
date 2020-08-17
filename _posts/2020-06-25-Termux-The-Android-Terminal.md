@@ -28,7 +28,7 @@ For the lazy ones, it is just a [ click ](https://play.google.com/store/apps/det
 ### The look and feel of the Terminal( rather, Termux)
 After installing Termux, upon opening , it shows up with a black screen and white letters.The crowd familiar with the DOS command line or Linux terminal will feel at home for sure.
 
-<img src="/images/posts/Termux1/TermuxHome.jpg" alt="Termux home" width="270" height="570" class="center">
+<img src="/images/posts/Termux1/TermuxHome.jpg" alt="Termux home" width="270" height="500" class="center">
 
 ### Some upgrades
 The programs and the installed packages will be updated by the corresponding developers from time to time. The updates are nothing but new features, bug fixes or some improvements. We should also try to keep our system upto date by installing the updates. 
