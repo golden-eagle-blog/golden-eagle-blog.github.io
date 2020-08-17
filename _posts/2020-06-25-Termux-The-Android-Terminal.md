@@ -75,6 +75,7 @@ pkg install git
 
 I am going to use a Github repo called "ShellScripts" owned by the developer "RapidSailor". This is by far the simplest shell script repo you can get.
 It is a one line command to copy the code to your local phone storage.
+
 ```
 #The below command will copy the code from the given repo to your phone.
 git clone https://github.com/RapidSailor/ShellScripts
@@ -84,21 +85,20 @@ git clone https://github.com/RapidSailor/ShellScripts
 
 When you run the above command , the repo is copied to your current woring folder on your phone.
 To see what all files are there , run the below commands.
-
+The below command will list all the repos which you have copied to the phone. right now, it will be only one.
 ```
-#The below command will list all the repos which you have copied to the phone. right now, it will be only one.
 ls
-#Navigate into the downloaded repo. Be mindful of the upper and lowercase to be used as the folder name.
+#Navigate into the downloaded repo
 cd ShellScripts
 #check the contents in the downloaded repo
 ls
 
 ```
-You can see that this reppo has only one file - 'echo.sh' .
+You can see that this repo has only one file - 'echo.sh' .
 
 #### Making the file executabe
 We have only one file that can be executed. To execute any file in Linux, the file should have the 'Execute' permission.
-Running one command will make it executable.
+Running one command will make a file executable.
 
 This command 'chmod' is used to change the mode. Tha parameters '+x' indicate the execute permission to the training file names.
 
@@ -106,15 +106,26 @@ This command 'chmod' is used to change the mode. Tha parameters '+x' indicate th
 chmod +x echo.sh
 #
 ```
-Now the file is executable.
+Now the file is executable. &#128526;
 
-#### Run it 
+#### Run the application &#128513;
 Running an executable file is another single command.
-since this program is an shell script, we run the below.
+since this program is an shell script, we run the below command.
 
 ```
 sh echo.sh
 ```
 Now the program will execute and display any outcome as needed.
-
+The screenshot below with show the sequence of execution and its outcome.
 <img src="/images/posts/Termux1/TermuxExecute.jpg" alt="Termux Execution" width="270" height="250" class="center">
+
+We are done executing a basic shell script program using Termux on your android phone. &#128519;
+
+Doesnt it feel great and nerdy &#128520l ?
+Now you are ready to explore the possibilities of Termux. Get out and explore. 
+
+#### A word of caution - &#128565; Do not clone and run anything you come across. 
+Not all the code you see will be safe . There may be malicious code as well. Inspect the code once before you execute something. If you are not very sure , do some googling about that repo. If you sespect something do not execute.
+
+Stay safe and enjoy. &#129321;
+
