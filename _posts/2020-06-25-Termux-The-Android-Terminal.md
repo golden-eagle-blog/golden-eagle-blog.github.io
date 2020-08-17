@@ -34,19 +34,18 @@ The programs and the installed packages will be updated by the corresponding dev
 It is easy to run two commands to keep your system updated.
 
 ```
-#This is how we add some comments here. The line below this is your first command. the apt update command will look for any possible updates to the packaged installed on your Termux or Terminal(in a broader sense).
+#This is how we add some comments here. 
 apt update
-#After this command you can see any available updates for your installed packages.
+
 
 ```
+After the above command is executed, you can see any available updates for your installed packages.
 
 image
 
 Now we have to install the available packages. To install the available packages, just run the command given below. It will prompt you for the confirmation to install. Please input Y or y.
 ```
-#This is how we add some comments here. The line below this is your first command. the apt update command will look for any possible updates to the packages installed on your Termux or Terminal(in a broader sense).
 apt upgrade
-#After this command your upgrades will be installed.
 
 ```
 
