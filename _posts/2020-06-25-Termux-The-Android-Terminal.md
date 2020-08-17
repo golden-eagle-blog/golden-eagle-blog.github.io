@@ -53,3 +53,68 @@ apt upgrade
 
 
 Good, we are all set. Now we can look for having some fun.
+
+### Running some custom programs
+
+We have a working Terminal now, thanks to Termux. We can run custom programs on your android device. The easy way to do something is to run some applications already available on github.
+
+#### Github
+Github is a free public reposity available at https://github.com/. You can create a free account, save and share your code or applicatons with other developers. You can access the repostories which are made available to the public by other developers. It is a fantastic collaboration tool and doesn't cost you a penny.
+
+#### Getting the public code or applications from Github
+
+1. Create an github account.
+  This is a no brainer activity. Nobody need any assistance here.
+2. Install git on Termux.
+  To install git on Termux, run the following command on the Termux terminal.
+```
+pkg install git
+```
+<img src="/images/posts/Termux1/TermuxGitInstall.jpg" alt="Termux Git Installation" width="270" height="120" class="center">
+3. Checkout or clone the code from github to your phone.
+
+I am going to use a Github repo called "ShellScripts" owned by the developer "RapidSailor". This is by far the simplest shell script repo you can get.
+It is a one line command to copy the code to your local phone storage.
+```
+#The below command will copy the code from the given repo to your phone.
+git clone https://github.com/RapidSailor/ShellScripts
+
+```
+#### Inspect downloaded code
+
+When you run the above command , the repo is copied to your current woring folder on your phone.
+To see what all files are there , run the below commands.
+
+```
+#The below command will list all the repos which you have copied to the phone. right now, it will be only one.
+ls
+#Navigate into the downloaded repo. Be mindful of the upper and lowercase to be used as the folder name.
+cd ShellScripts
+#check the contents in the downloaded repo
+ls
+
+```
+You can see that this reppo has only one file - 'echo.sh' .
+
+#### Making the file executabe
+We have only one file that can be executed. To execute any file in Linux, the file should have the 'Execute' permission.
+Running one command will make it executable.
+
+This command 'chmod' is used to change the mode. Tha parameters '+x' indicate the execute permission to the training file names.
+
+```
+chmod +x echo.sh
+#
+```
+Now the file is executable.
+
+#### Run it 
+Running an executable file is another single command.
+since this program is an shell script, we run the below.
+
+```
+sh echo.sh
+```
+Now the program will execute and display any outcome as needed.
+
+<img src="/images/posts/Termux1/TermuxExecute.jpg" alt="Termux Execution" width="270" height="250" class="center">
