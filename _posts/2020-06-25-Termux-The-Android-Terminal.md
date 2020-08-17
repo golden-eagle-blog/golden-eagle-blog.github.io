@@ -96,7 +96,7 @@ ls
 ```
 You can see that this repo has only one file - 'echo.sh' .
 
-#### Making the file executabe
+#### Making the file executable
 We have only one file that can be executed. To execute any file in Linux, the file should have the 'Execute' permission.
 Running one command will make a file executable.
 
