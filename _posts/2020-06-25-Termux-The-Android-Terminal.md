@@ -3,10 +3,10 @@ layout: post
 title: Termux - The android Terminal
 ---
 
-No hesitation, you can certainly call Termux "The Android terminal". Owing to its simplicity and capability, Termux stand so close to the original Unix terminal.
+No hesitation, you can certainly call Termux "The Android terminal". Owing to its simplicity and capabilities, Termux stand so close to the original Unix terminal.
 
 ### Who is it for and who should read this?
-This is beginner article which will will take you introduce you to the fundamentls of using unix terminal on android devices. To understand something here, you should barely understand English and nothing else is a pre-requisite.
+This is beginner article which will introduce you to the fundamentls of using Linux terminal on android devices. To understand something here, you should barely understand English and nothing else is a pre-requisite.
 
 
 ### Let us figure out the basics.
@@ -28,7 +28,7 @@ For the lazy ones, it is just a click [ here ](https://play.google.com/store/app
 ### The look and feel of the Terminal( rather, Termux)
 After installing Termux, upon opening , it shows up a black screen with white letters.The crowd familiar with the DOS command line or Linux terminal will feel at home.
 
-<img src="/images/posts/Termux1/TermuxHome.jpg" alt="Termux home" class="center">
+<img src="/images/posts/Termux1/TermuxHome.jpg" alt="Termux home" width="540" height="1140" class="center">
 
 ### Some upgrades
 The programs and the installed packages will be updated by the corresponding developers from time to time. The updates are nothing but new features, bug fixes or some improvements. We should also try to keep our system upto date by installing the updates. 
