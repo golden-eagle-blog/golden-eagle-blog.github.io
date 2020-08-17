@@ -117,6 +117,7 @@ sh echo.sh
 ```
 Now the program will execute and display any outcome as needed.
 The screenshot below with show the sequence of execution and its outcome.
+
 <img src="/images/posts/Termux1/TermuxExecute.jpg" alt="Termux Execution" width="270" height="250" class="center">
 
 We are done executing a basic shell script program using Termux on your android phone. &#128519;
