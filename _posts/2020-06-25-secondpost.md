@@ -8,7 +8,7 @@
 <p>english.</p>
 </div>
 
-```shell
+```
 ls
 history
 
