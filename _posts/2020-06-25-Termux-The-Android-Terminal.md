@@ -121,11 +121,11 @@ The screenshot below with show the sequence of execution and its outcome.
 
 We are done executing a basic shell script program using Termux on your android phone. &#128519;
 
-Doesnt it feel great and nerdy &#128520l ?
+Doesn't it feel great and nerdy &#128520; ?
 Now you are ready to explore the possibilities of Termux. Get out and explore. 
 
-#### A word of caution - &#128565; Do not clone and run anything you come across. 
-Not all the code you see will be safe . There may be malicious code as well. Inspect the code once before you execute something. If you are not very sure , do some googling about that repo. If you sespect something do not execute.
+### A word of caution - &#128565; Do not clone and run anything you come across. 
+Not all the code you see will be safe . There may be malicious code as well. Inspect the code once before you execute something. If you are not very sure , do some googling about that repo. If you sespect something do not execute. 
 
 Stay safe and enjoy. &#129321;
 
