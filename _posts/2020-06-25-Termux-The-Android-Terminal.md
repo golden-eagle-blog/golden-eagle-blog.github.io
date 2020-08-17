@@ -42,14 +42,14 @@ apt update
 ```
 After the above command is executed, you can see any available updates for your installed packages.
 
-<img src="/images/posts/Termux1/TermuxUpdate.jpg" alt="Termux Update" class="center">
+<img src="/images/posts/Termux1/TermuxUpdate.jpg" alt="Termux Update" width="270" height="500" class="center">
 
 Now we have to install the available packages. To install the available packages, just run the command given below. It will prompt you for the confirmation to install. Please input Y or y.
 ```
 apt upgrade
 
 ```
-<img src="/images/posts/Termux1/TermuxUpgrade.jpg" alt="Termux Upgrade" class="center">
+<img src="/images/posts/Termux1/TermuxUpgrade.jpg" alt="Termux Upgrade" width="270" height="500" class="center">
 
 
 Good, we are all set. Now we can look for having some fun.
