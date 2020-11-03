@@ -24,7 +24,7 @@ Any file changes to be done using the vi,
 esc for going to command mode. :wq for saving and exiting.
 
 Push the changes to remote master branch.
-#git push origin master (this will push the data to remote repo)  
+#### git push origin master (this will push the data to the master branch of the remote repo)  
 
 Pull the latest from the remote location.
 #### git pull (Run this in the project folder)
